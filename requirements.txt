@@ -8,3 +8,6 @@ langchain-ollama
 langchain_tavily
 IPython
 pygraphviz
+tavily
+ddgs
+bs4
